@@ -13,7 +13,7 @@
 - 🌱 Learning: `AI for Robotics`, `Arduino`, `ESP32`, `Brain-Computer Interface (BCI)`
 - 👯 Looking to collaborate on: **Robotics, AI/ML, Computer Vision projects**
 - 💬 Ask me about: Embedded Systems, Python, Robotics Projects
-- ⚡ Fun fact: My dream is to build a humanoid robot like *Chitti* from Enthiran!
+- ⚡ Fun fact: My dream is to build a humanoid robot.
 
 ---
 
