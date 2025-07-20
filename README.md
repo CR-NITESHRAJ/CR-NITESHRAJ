@@ -57,11 +57,11 @@ I’m obsessed with building a full humanoid robot like *Chitti* from *Enthiran*
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"></a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank"><img alt="GFG" src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks"></a>
+  <a href="https://github.com/CR-NITESHRAJ" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/C.R. NITESHRAJ" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/nitesh_legend" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://www.codechef.com/users/niteshrajcr" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"></a>
+  <a href="https://auth.geeksforgeeks.org/user/Niteshraj C.R." target="_blank"><img alt="GFG" src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks"></a>
 </p>
 
 ---
