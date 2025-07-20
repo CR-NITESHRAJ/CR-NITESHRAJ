@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Robotics animation" />
 </p>
 
-<h1 align="center">Hi there, I'm Nitesh 👋</h1>
+<h1 align="center">Hi there, I'm C.R.Niteshraj 👋</h1>
 <h3 align="center">2nd Year Automation & Robotics Student | Robotics & AI Enthusiast | Future Humanoid Creator</h3>
 
 ---
