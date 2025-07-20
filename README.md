@@ -71,9 +71,9 @@ I’m obsessed with building a full humanoid robot like *Chitti* from *Enthiran*
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CR-NITESHRAJ&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CR-NITESHRAJ&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-NITESHRAJ&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I’m obsessed with building a full humanoid robot like *Chitti* from *Enthiran*
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=monokai" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CR-NITESHRAJ&theme=monokai" />
 </p>
 
 ---
