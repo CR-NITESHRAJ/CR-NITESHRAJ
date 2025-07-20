@@ -61,7 +61,7 @@ I’m obsessed with building a full humanoid robot like *Chitti* from *Enthiran*
   <a href="https://www.linkedin.com/in/C.R. NITESHRAJ" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://leetcode.com/nitesh_legend" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
   <a href="https://www.codechef.com/users/niteshrajcr" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"></a>
-  <a href="https://auth.geeksforgeeks.org/user/Niteshraj C.R." target="_blank"><img alt="GFG" src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks"></a>
+  <a href="https://auth.geeksforgeeks.org/user/crniteshrkk3" target="_blank"><img alt="GFG" src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks"></a>
 </p>
 
 ---
