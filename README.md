@@ -32,7 +32,7 @@
 
 ### 📫 How to reach me
 - 📧 Email: crniteshraj.official@gmail.com 
-- 💼 LinkedIn: See Social section below 👇
+- 💼 LinkedIn: - 💼 LinkedIn: [linkedin.com/in/niteshrajcr](https://www.linkedin.com/in/niteshrajcr)
 
 ---
 
