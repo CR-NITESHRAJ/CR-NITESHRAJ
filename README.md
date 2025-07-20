@@ -1,42 +1,26 @@
-<h1 align="center">Hi, I'm Nitesh 👋</h1>
+<h1 align="center">Hi 👋, I'm C.R.Niteshraj</h1>
+<h3 align="center">🚀 Robotics & AI Explorer • 🤖 Future Humanoid Creator</h3>
 
-<p align="center">
-  🚀 Robotics & AI Explorer • 🤖 Future Humanoid Creator • 🎓 B.Tech @ Amrita University
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cr-niteshraj&label=Profile%20views&color=0e75b6&style=flat" alt="cr-niteshraj" /> </p>
+
+- 🌱 I’m currently learning **`AI for Robotics`, `Arduino`, `ESP32`, `Brain-Computer Interface (BCI)`**
+
+- 👯 I’m looking to collaborate on ****Robotics, AI/ML, Computer Vision projects****
+
+- 📫 How to reach me **crniteshraj.official@gmail.com**
+
+- ⚡ Fun fact **My dream is to build a humanoid robot**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/c.r. niteshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c.r. niteshraj" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🧠 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cr-niteshraj&show_icons=true&locale=en&layout=compact" alt="cr-niteshraj" /></p>
 
-- 🎓 2nd Year Automation & Robotics Student
-- 🔭 Currently working on: **Tool & Gesture Detection** using YOLOv8
-- 🌱 Learning: `AI for Robotics`, `Arduino`, `ESP32`, `Brain-Computer Interface (BCI)`
-- 👯 Looking to collaborate on: **Robotics, AI/ML, Computer Vision projects**
-- 💬 Ask me about: Embedded Systems, Python, Robotics Projects
-- ⚡ Fun fact: My dream is to build a humanoid robot.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cr-niteshraj&show_icons=true&locale=en" alt="cr-niteshraj" /></p>
 
----
-
-### 🔧 Skills & Tools
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-black?style=flat&logo=darkreader)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshraj&show_icons=true&theme=react" alt="niteshraj's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshraj&theme=react" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/cr-niteshraj/))
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cr-niteshraj&" alt="cr-niteshraj" /></p>
