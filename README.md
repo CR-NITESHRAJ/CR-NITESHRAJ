@@ -31,7 +31,7 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: nitesh.yourmail@example.com *(replace with your actual email)*
+- 📧 Email: crniteshraj.official@gmail.com 
 - 💼 LinkedIn: See Social section below 👇
 
 ---
