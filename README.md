@@ -1,26 +1,88 @@
-<h1 align="center">Hi 👋, I'm C.R.Niteshraj</h1>
-<h3 align="center">🚀 Robotics & AI Explorer • 🤖 Future Humanoid Creator</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cr-niteshraj&label=Profile%20views&color=0e75b6&style=flat" alt="cr-niteshraj" /> </p>
-
-- 🌱 I’m currently learning **`AI for Robotics`, `Arduino`, `ESP32`, `Brain-Computer Interface (BCI)`**
-
-- 👯 I’m looking to collaborate on ****Robotics, AI/ML, Computer Vision projects****
-
-- 📫 How to reach me **crniteshraj.official@gmail.com**
-
-- ⚡ Fun fact **My dream is to build a humanoid robot**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/c.r. niteshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c.r. niteshraj" height="30" width="40" /></a>
+<!-- Top Visual GIF -->
+<p align="center">
+  <img src="[https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif](https://images.app.goo.gl/7JwRRXoCvoks4pQ47)" width="350" alt="Robotics animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there, I'm Nitesh 👋</h1>
+<h3 align="center">2nd Year Automation & Robotics Student | Robotics & AI Enthusiast | Future Humanoid Creator</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cr-niteshraj&show_icons=true&locale=en&layout=compact" alt="cr-niteshraj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cr-niteshraj&show_icons=true&locale=en" alt="cr-niteshraj" /></p>
+### 🔭 I’m currently working on
+- YOLOv8-based **Tool and Gesture Detection System**
+- Projects using **Arduino & ESP32**
+- Pantech's **AI for Robotics + BCI mini-projects**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cr-niteshraj&" alt="cr-niteshraj" /></p>
+---
+
+### 🤝 I’m looking to collaborate on
+- **OpenCV / Detection-based Projects**
+- **Embedded AI Applications**
+- Robotics Capstone or Hackathon Ideas
+
+---
+
+### 🌱 I’m currently learning
+- Python & OpenCV
+- Brain-Computer Interface (BCI)
+- Arduino + ESP32
+- Git & GitHub for real-world projects
+
+---
+
+### 📫 How to reach me
+- 📧 Email: nitesh.yourmail@example.com *(replace with your actual email)*
+- 💼 LinkedIn: See Social section below 👇
+
+---
+
+### ⚡ Fun fact
+I’m obsessed with building a full humanoid robot like *Chitti* from *Enthiran* 🤖  
+—not for destruction, but to replicate human-like intelligence and functionality!
+
+---
+
+### 🛠️ Skills & Tools
+
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"></a>
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank"><img alt="GFG" src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks"></a>
+</p>
+
+---
+
+### 📈 GitHub Stats & Badges
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=monokai" />
+</p>
+
+---
+
