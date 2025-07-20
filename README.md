@@ -1,6 +1,6 @@
 <!-- Top Visual GIF -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif](https://images.app.goo.gl/7JwRRXoCvoks4pQ47)" width="350" alt="Robotics animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Robotics animation" />
 </p>
 
 <h1 align="center">Hi there, I'm Nitesh 👋</h1>
