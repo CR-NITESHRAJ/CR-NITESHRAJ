@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm C.R.Niteshraj 👋</h1>
-<h3 align="center">2nd Year Automation & Robotics Student | Robotics & AI Enthusiast | Future Humanoid Creator</h3>
+<h3 align="center">Full-Stack Robotics & AI Engineer | Future-Ready in Computer Vision & Embedded AI | Building Real-Time Intelligent Machines</h3>
 
 ---
 
